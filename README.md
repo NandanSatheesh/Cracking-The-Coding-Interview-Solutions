@@ -3,8 +3,8 @@ My Solutions to the book - Cracking the Coding Interview by Gayle Laakmann McDow
 
 Feel free to contribute. 
 
-Start the repository. 
-Fork it if you like. 
-All pull requests will be accepted. 
-
+Start the repository.   
+Fork it if you like.   
+All pull requests will be accepted.   
+  
 Happy Coding :) 
